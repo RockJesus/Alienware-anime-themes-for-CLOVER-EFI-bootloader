@@ -1,2 +1,1 @@
-# Alien-OS
-Alienware anime themes for CLOVER bootloader
+# Alienware anime themes for CLOVER EFI bootloader

@@ -46,6 +46,8 @@
 		</array>
 		<key>Background</key>
 		<dict>
+			<key>Dark</key>
+			<false/>
 			<key>Path</key>
 			<string>El capitan blur.png</string>
 			<key>Type</key>
@@ -63,7 +65,7 @@
 		<key>Banner</key>
 		<dict>
 			<key>DistanceFromScreenEdgeX%</key>
-			<integer>43</integer>
+			<integer>44</integer>
 			<key>DistanceFromScreenEdgeY%</key>
 			<integer>5</integer>
 			<key>Path</key>
@@ -73,6 +75,8 @@
 			<key>ScreenEdgeY</key>
 			<string>top</string>
 		</dict>
+		<key>BootCampStyle</key>
+		<false/>
 		<key>Components</key>
 		<dict>
 			<key>Banner</key>
@@ -89,8 +93,6 @@
 			<true/>
 			<key>Revision</key>
 			<false/>
-			<key>Tools</key>
-			<true/>
 		</dict>
 		<key>Font</key>
 		<dict>
@@ -106,7 +108,7 @@
 		<key>Layout</key>
 		<dict>
 			<key>BannerOffset</key>
-			<integer>350</integer>
+			<integer>400</integer>
 			<key>ButtonOffset</key>
 			<integer>50</integer>
 			<key>MainEntriesSize</key>
@@ -119,11 +121,15 @@
 			<integer>96</integer>
 			<key>TileYSpace</key>
 			<integer>64</integer>
+			<key>Vertical</key>
+			<false/>
 		</dict>
 		<key>Selection</key>
 		<dict>
 			<key>Big</key>
 			<string>Selection_big.png</string>
+			<key>ChangeNonSelectedGrey</key>
+			<false/>
 			<key>OnTop</key>
 			<false/>
 			<key>Small</key>

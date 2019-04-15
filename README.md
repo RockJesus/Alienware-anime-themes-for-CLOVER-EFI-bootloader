@@ -72,5 +72,18 @@ yoona
 
 ![image](https://github.com/RockJesus/Alienware-anime-themes-for-CLOVER-EFI-bootloader/blob/master/screenshots/yoona.gif)
 
-*Theme name without 'hd'=1600x900
-*Theme name with 'hd'=1920x1080
+# *Theme name without 'hd'=1600x900
+# *Theme name with 'hd'=1920x1080
+# 更多主题前往：https://pan.baidu.com/s/1eS7joVg 密码: jith
+
+# My blog: https://rockjesus.github.io/
+
+| 外星人黑苹果QQ群：308469644                                                                                                                                                              | 
+| ----------------------------------------------------------   | 
+| ![image](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-Mojave-10.14-Hackintosh/blob/master/qq.png?raw=true) |
+
+
+# *************** BUY ME A COFFEE ***************
+| 支付宝                                                                                                                                                              | 微信                                               |
+| ----------------------------------------------------------   | ---------------------------------------------------- |
+| ![image](https://github.com/RockJesus/Alienware-17-R4-I7-7700HQ-MacOS-High-Sierra/blob/master/zfb.jpeg) | ![image](https://github.com/RockJesus/Alienware-17-R4-I7-7700HQ-MacOS-High-Sierra/blob/master/wx.jpeg) | 
